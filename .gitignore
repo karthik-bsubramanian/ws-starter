@@ -1,0 +1,3 @@
+websocket-server/dist
+websocket-server/node_modules
+ws-client/node_modules
